@@ -4,7 +4,7 @@ I use Indonesian language for file names, and a few others
 
 ## Requirments (Click to download)
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/)
-- [SQL Server Management Studio] (https://aka.ms/ssmsfullsetup)
+- [SQL Server Management Studio](https://aka.ms/ssmsfullsetup)
 
 ## Visual Studio extensions
 - Microsoft RDLC Report Designer
