@@ -1,0 +1,31 @@
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\bin\Debug\Pembayaran di CoffeeShop.exe.config
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\bin\Debug\Pembayaran di CoffeeShop.exe
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\bin\Debug\Pembayaran di CoffeeShop.pdb
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Main.resources
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Menu.resources
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Pelanggan.resources
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.exe
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.pdb
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Transaksi.resources
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.PelangganCreate.resources
+C:\Users\ASUS\source\repos\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.TambahMenu.resources
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\bin\Debug\Pembayaran di CoffeeShop.exe.config
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\bin\Debug\Pembayaran di CoffeeShop.exe
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\bin\Debug\Pembayaran di CoffeeShop.pdb
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Main.resources
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Menu.resources
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Pelanggan.resources
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.PelangganCreate.resources
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Properties.Resources.resources
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.TambahMenu.resources
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.Transaksi.resources
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.csproj.GenerateResource.cache
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.exe
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran di CoffeeShop.pdb
+C:\Users\krisn\Downloads\UAS PemVis\Pembayaran_di_CoffeeShop\Pembayaran di CoffeeShop\obj\Debug\Pembayaran_di_CoffeeShop.HistoryTransaksi.resources
